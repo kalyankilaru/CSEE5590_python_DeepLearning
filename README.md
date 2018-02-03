@@ -1,1 +1,1 @@
-# CSEE5590_python_web
+# CSEE5590_Python_DeepLearning

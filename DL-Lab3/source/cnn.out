@@ -1,0 +1,9 @@
+Step 1, Loss=69034.3828, Accuracy=0.180
+Step 200, Loss=1249.5122, Accuracy=0.945
+Step 400, Loss=704.6216, Accuracy=0.953
+Step 600, Loss=539.6030, Accuracy=0.953
+Step 800, Loss=415.5939, Accuracy=0.953
+Step 1000, Loss=409.5234, Accuracy=0.961
+Optimization Finished!
+Testing Accuracy: 0.98046875
+
